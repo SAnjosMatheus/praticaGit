@@ -8,3 +8,5 @@ Jabba the Hutt
 
 Rey
 Finn
+Kylon Rey
+
